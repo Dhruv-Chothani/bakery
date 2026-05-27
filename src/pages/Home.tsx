@@ -44,7 +44,7 @@ const Home = () => {
       <section className="relative h-[600px] flex items-center justify-center bg-amber-900">
         <div className="absolute inset-0">
           <img
-            src="https://images.pexels.com/photos/2396738/pexels-photo-2396738.jpeg?auto=compress&cs=tinysrgb&w=1920"
+            src="https://www.zinqueindia.com/cdn/shop/files/WhatsAppImage2025-06-21at9.37.22PM.jpg?v=1751621495&width=713"
             alt="Fresh baked goods"
             className="w-full h-full object-cover opacity-40"
           />
