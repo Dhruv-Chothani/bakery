@@ -6,7 +6,7 @@ const Home = () => {
     {
       name: 'Artisan Croissants',
       description: 'Flaky, buttery layers of perfection',
-      image: 'https://images.pexels.com/photos/213014/pexels-photo-213014.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://www.zinqueindia.com/cdn/shop/files/WhatsAppImage2025-06-21at9.37.22PM.jpg?v=1751621495&width=713',
     },
     {
       name: 'Fresh Bread',
